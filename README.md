@@ -1,6 +1,6 @@
 # Project_README
 
-교육기관과 회사에서 프로젝트를 진행하며 담당했던 내용들 정리
+2021 ~ 2022까지 프로젝트 진행과 노력들
 
 ## ObjectDetection_Modeling(ssd)
 
