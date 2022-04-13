@@ -43,11 +43,11 @@
 
   - 학습모델을 활용한 object_detection 구현 -> [ssd_modeling.ipynb](https://github.com/zerosysk/SelfDrive_Project/blob/master/ssd_modeling.ipynb)
 
-    ![image-20220413135815121](D:\프로젝트정리\image\object_detection)
+    ![image-20220413135815121](https://github.com/zerosysk/Project/blob/master/image/object_detection)
 
   - 수집차량 GPS좌표를 통한 이동경로 시각화 -> [folium_test.ipynb](https://github.com/zerosysk/Project/blob/master/ObjectDetection_Modeling(ssd)/folium_test.ipynb)
 
-    ![image-20220413135639250](D:\프로젝트정리\image\FOLIUM_TEST)
+    ![image-20220413135639250](https://github.com/zerosysk/Project/blob/master/image/FOLIUM_TEST.png)
 
 
 
@@ -59,7 +59,7 @@
 
   ppt : [6조_그알_넷플릭스분석_최종.pdf](https://github.com/zerosysk/Project/blob/master/netflix_viewpoint/6조_그알_넷플릭스분석_최종.pdf)
 
-![image-20220413132956442](D:\프로젝트정리\image\멀티캠퍼스 우수상.png)
+![image-20220413132956442](https://github.com/zerosysk/Project/blob/master/image/멀티캠퍼스 우수상.png)
 
 - 데이터 수집,정제 및 전처리
 
