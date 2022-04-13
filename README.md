@@ -43,7 +43,7 @@
 
   - 학습모델을 활용한 object_detection 구현 -> [ssd_modeling.ipynb](https://github.com/zerosysk/SelfDrive_Project/blob/master/ssd_modeling.ipynb)
 
-    ![image-20220413135815121](https://github.com/zerosysk/Project/blob/master/image/object_detection)
+    ![image-20220413135815121](https://github.com/zerosysk/Project/blob/master/image/object_detection.png)
 
   - 수집차량 GPS좌표를 통한 이동경로 시각화 -> [folium_test.ipynb](https://github.com/zerosysk/Project/blob/master/ObjectDetection_Modeling(ssd)/folium_test.ipynb)
 
