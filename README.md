@@ -75,7 +75,7 @@
 
 - (telco_churn 디렉토리에서 [코드 : [4조_telco최종.ipynb](https://github.com/zerosysk/Project/blob/master/telco_churn/4조_telco최종.ipynb),  
 
-  PPT : [4조 통신사이탈분석 프로젝트.pptx](https://github.com/zerosysk/Project/blob/master/telco_churn/4조 통신사이탈분석.pptx)
+  PPT : [4조 통신사이탈분석 프로젝트.pptx](https://github.com/zerosysk/Project/blob/master/telco_churn/4조_통신사이탈분석.pptx)
 
 - 데이터 전처리 및 EDA
 - 머신러닝 모델링
