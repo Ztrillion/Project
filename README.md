@@ -59,7 +59,7 @@
 
   ppt : [6조_그알_넷플릭스분석_최종.pdf](https://github.com/zerosysk/Project/blob/master/netflix_viewpoint/6조_그알_넷플릭스분석_최종.pdf)
 
-![image-20220413132956442](https://github.com/zerosysk/Project/blob/master/image/멀티캠퍼스 우수상.png)
+![image-20220413132956442](https://github.com/zerosysk/Project/blob/master/image/멀티캠퍼스_우수상.png)
 
 - 데이터 수집,정제 및 전처리
 
