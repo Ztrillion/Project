@@ -3,7 +3,7 @@
 2021 ~ 2022까지 프로젝트 진행과 노력들
 
 ## 2022년 3월 ADSP 합격
-  - ![image-20220413165439250](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220413165439250.png)
+  - ![image-20220413165439250](https://github.com/zerosysk/Project/blob/master/image/ADsP.png)
 
     
 ## ObjectDetection_Modeling(ssd)
