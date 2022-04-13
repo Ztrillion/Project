@@ -3,7 +3,9 @@
 2021 ~ 2022까지 프로젝트 진행과 노력들
 
 ## 2022년 3월 ADSP 합격
-  - (https://github.com/zerosysk/Project/blob/master/image/ADsP.png)
+  - ![image-20220413165439250](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20220413165439250.png)
+
+    
 ## ObjectDetection_Modeling(ssd)
 
 - 국책과제 수행(인공지능 학습데이터 구축사업_ 융합센서 도로데이터)
