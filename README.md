@@ -10,11 +10,13 @@
 
 - 국책과제 수행(인공지능 학습데이터 구축사업_ 융합센서 도로데이터)
 
-  - 3D Lidar 기반 데이터 정제, 가공, Object Detection 모델링
+  - 3D Lidar 기반 데이터 정제, 가공, 모델링을 위한 Linux 환경구축(cuda) , Object Detection 모델링
 
     - 3D 데이터 정제 및 라벨링
 
     - 모델링을 위한 json파일 converting 
+    
+    - 모델링을 위한 Linux 환경구축(cuda) 
 
     - 모델링(모델선정, 환경구축, 모델링, 모델평가 및 수정)
 
