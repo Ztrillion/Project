@@ -10,13 +10,13 @@
 
 - 국책과제 수행(인공지능 학습데이터 구축사업_ 융합센서 도로데이터)
 
-  - 3D Lidar 기반 데이터 정제, 가공, 모델링을 위한 Linux 환경구축(cuda) , Object Detection 모델링
+  - 3D Lidar 기반 데이터 정제, 가공, CUDA 연산을 위한 Linux 환경구축(CUDA) , Object Detection 모델링
 
     - 3D 데이터 정제 및 라벨링
 
     - 모델링을 위한 json파일 converting 
     
-    - 모델링을 위한 Linux 환경구축(cuda) 
+    - CUDA 연산을 위한 Linux 환경구축(CUDA)
 
     - 모델링(모델선정, 환경구축, 모델링, 모델평가 및 수정)
 
@@ -55,6 +55,11 @@
 
     ![image-20220413135639250](https://github.com/zerosysk/Project/blob/master/image/FOLIUM_TEST.png)
 
+## Unity기반 AR 강의안 제작
+  
+  - AR초급과정 강의안 : 코딩없이 클릭만으로 AR을 제작할 수 있는 교육에 활용
+    
+    - 강의안PDF :  Unity_AR초급강의안.pdf(https://github.com/zerosysk/Project/blob/master/Unity/Unity_AR초급강의안.pdf)
 
 
 ##  멀티캠퍼스(기관교육)
