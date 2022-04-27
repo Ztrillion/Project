@@ -59,7 +59,7 @@
   
   - AR초급과정 강의안 : 코딩없이 클릭만으로 AR을 제작할 수 있는 교육에 활용
     
-    - 강의안PDF :  Unity_AR초급강의안.pdf(https://github.com/zerosysk/Project/blob/master/Unity/Unity_AR초급강의안.pdf)
+    - 강의안PDF :  [Unity_AR초급강의안.pdf](https://github.com/zerosysk/Project/blob/master/Unity/Unity_AR초급강의안.pdf)
 
 
 ##  멀티캠퍼스(기관교육)
