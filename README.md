@@ -14,13 +14,13 @@
 
     - 3D 데이터 정제 및 라벨링
 
-    - 모델링을 위한 json파일 converting 
+    - Data Transform : json파일 merge,converting 
     
     - CUDA 연산을 위한 Linux 환경구축(CUDA)
 
-    - 모델링(모델선정, 환경구축, 모델링, 모델평가 및 수정)
+    - 모델링(모델선정, 환경구축, 모델학습, 모델평가 및 수정)
 
-    - 모델을 활용한 모델 Object Detection 구현
+    - 학습 모델을 활용한 Object Detection 구현
 
     - 수집차량 GPS좌표를 통한 이동경로 시각화 
 
