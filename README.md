@@ -6,21 +6,15 @@
   - ![image-20220413165439250](https://github.com/zerosysk/Project/blob/master/image/ADsP.png)
 
     
-## Tensorflow를 활용한 ObjectDetection_Modeling(ssd)
+## Tensorflow를 활용한 2D IMAGE ObjectDetection_Modeling(ssd)
 
 - 국책과제 수행(인공지능 학습데이터 구축사업_ 융합센서 도로데이터)
 
-  - 3D Lidar 기반 데이터 정제, 가공, CUDA 연산을 위한 Linux 환경구축(CUDA) , Object Detection 모델링
+    - 데이터 정제 및 라벨링 기준 수립
 
-    - 3D 데이터 정제 및 라벨링
+    - 데이터 전처리 : json파일 핸들링
 
-    - Data Transform : json파일 merge,converting 
-    
-    - CUDA 연산을 위한 Linux 환경구축(CUDA)
-
-    - 모델링(모델선정, 환경구축, 모델학습, 모델평가 및 수정)
-
-    - 학습 모델을 활용한 Object Detection 구현
+    - object detection 모델 학습 및 학습모델의 활용한 Detect 시각화
 
     - 수집차량 GPS좌표를 통한 이동경로 시각화 
 
