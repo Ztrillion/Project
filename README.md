@@ -49,6 +49,29 @@
 
     ![image-20220413135639250](https://github.com/zerosysk/Project/blob/master/image/FOLIUM_TEST.png)
 
+## Pytorch를 활용한 3D Sementic Segmentation
+
+- 업무영억  
+  - 학습모델의 원리를 통해 정제 및 라벨링 기준 수립
+  
+  - 데이터 전처리 
+  - max_point 추출 [https://github.com/Ztrillion/advancement/tree/master/preprocessing](https://github.com/Ztrillion/advancement/blob/master/preprocessing/01.calculate_max_point.py)
+  - preprocessing [https://github.com/Ztrillion/advancement/blob/master/preprocessing/02.preprocessing.py](https://github.com/Ztrillion/advancement/blob/master/preprocessing/02.preprocessing.py)
+    
+    
+    - pcd 파일과 json파일 매핑에러 해결
+    - jsno파일 구문 정정을 통해 구문정확성 100%달성
+  
+  - GUI 프로그래밍
+    - 네이밍 변경 기능, 확장자별 네이밍 자동 체크 -> 정제
+    - JSON 구문정확성 점검 및 오류 수정 기능 -> 전처리
+  
+  - 유효성 검증 모델
+    - 사용자 환경구축 편의제공 -> requirements.txt 제작 
+      - [requirements.txt](https://github.com/Ztrillion/advancement/blob/master/requirements.txt)
+    - 모델 환경 구축 및 CUSTOM MODEL학습 및 테스트
+    - 검증 지표 mIoU 92%로 목표수치 과달성
+
 ## Unity기반 AR 강의안 제작
   
   - AR초급과정 _ 지형인식을 통한 객체생성 : 코딩없이 클릭만으로 AR을 제작할 수 있는 교육에 활용
