@@ -16,7 +16,7 @@
     - pcd 파일과 json파일 매핑에러 해결
     - jsno파일 구문 정정을 통해 구문정확성 100%달성
   
-  - GUI 프로그래밍
+  - GUI 프로그래밍 - https://github.com/Ztrillion/advancement/blob/master/9Boon%20Tool%20User%20Guide/9BooN%20User%20Guide_.pdf
     - 네이밍 변경 기능, 확장자별 네이밍 자동 체크 -> 정제
     - JSON 구문정확성 점검 및 오류 수정 기능 -> 전처리
   
