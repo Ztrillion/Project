@@ -1,8 +1,17 @@
 # Project_README
 
 2021 ~ 프로젝트 진행
+- 2023. 01 ~
+## 도로상황 자동갱신 AI담당
 
-- 2022.08 ~ 
+- 업무영역
+  - 통계분석 기반 데이터 수집 및 가공 기준 수립
+  - 통계분석을 통한 데이터 분석 및 데이터 전처리
+  - 하이퍼 파라미터 튜닝 및 모델학습
+    
+  - 진행 사항 : https://github.com/Ztrillion/object_detection/blob/master/README.md
+
+- 2022.08 ~ 2023.01
 ## Pytorch를 활용한 3D Sementic Segmentation
 
 - 업무영억  
