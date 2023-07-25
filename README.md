@@ -2,17 +2,20 @@
 
 - 2023.01 ~ 현재
 
-## 도로상황 자동갱신 AI담당
+## [THIRD] 도로상황 자동갱신 AI담당
 
 - 업무영역
   - 통계분석 기반 데이터 수집 및 가공 기준 수립
   - 통계분석을 통한 데이터 분석 및 데이터 전처리
-  - 하이퍼 파라미터 튜닝 및 모델학습
+  - AI 모델학습, 추론, 평가 및 모델 고도화
+  - 하이퍼 파라미터 튜닝
     
   - 진행 사항 : https://github.com/Ztrillion/object_detection/blob/master/README.md
 
 - 2022.08 ~ 2023.01
-## Pytorch를 활용한 3D Sementic Segmentation
+
+- 
+## [SECOND PROJECT] Pytorch를 활용한 3D Sementic Segmentation
 
 - 업무영억  
   - 학습모델의 원리를 통해 정제 및 라벨링 기준 수립
@@ -25,13 +28,8 @@
     - pcd 파일과 json파일 매핑에러 해결
     - jsno파일 구문 정정을 통해 구문정확성 100%달성
   
-  - GUI 프로그래밍 - https://github.com/Ztrillion/advancement/blob/master/9Boon%20Tool%20User%20Guide/9BooN%20User%20Guide_.pdf
-    - 네이밍 변경 및 리턴 기능, 확장자별 네이밍 자동 체크 -> 정제
-    - JSON 구문정확성 점검 및 오류 수정 기능 -> 전처리
-    - 기능별 로그파일 생성 및 기록을 통해 유저 행동 추적
-  
   - 유효성 검증 모델
-    - 사용자 환경구축 편의제공 -> requirements.txt 제작 
+    - 사용자 환경구축 편의제공 -> requirements.txt 
       - [requirements.txt](https://github.com/Ztrillion/advancement/blob/master/requirements.txt)
     - 모델 환경 구축 및 CUSTOM MODEL학습 및 테스트
     - 검증 지표 mIoU 92%로 목표수치 과달성
@@ -40,15 +38,15 @@
   - ![image-20220413165439250](https://github.com/zerosysk/Project/blob/master/image/ADsP.png)
 
     
-## Tensorflow를 활용한 2D IMAGE ObjectDetection_Modeling(ssd)
+## [FIRST PROJECT] Tensorflow를 활용한 2D IMAGE ObjectDetection MODEL : SSD
 
 - 국책과제 수행(인공지능 학습데이터 구축사업_ 융합센서 도로데이터)
 
     - 데이터 정제 및 라벨링 기준 수립
 
-    - 데이터 전처리 : json파일 핸들링
+    - 데이터 전처리 : SSD 모델 형식에 맞는 형식으로 변환
 
-    - object detection 모델 학습 및 학습모델의 활용한 Detect 시각화
+    - Object detection 모델 학습 및 학습모델의 활용한 시각화
 
     - 수집차량 GPS좌표를 통한 이동경로 시각화 
 
