@@ -2,7 +2,7 @@
 
 - 2023.01 ~ 현재
 
-## [THIRD] 도로상황 자동갱신 AI담당
+## [THIRD] 도로상황 자동갱신 AI개발
 
 - 업무영역
   - 통계분석 기반 데이터 수집 및 가공 기준 수립
@@ -12,9 +12,6 @@
     
   - 진행 사항 : https://github.com/Ztrillion/object_detection/blob/master/README.md
 
-- 2022.08 ~ 2023.01
-
-- 
 ## [SECOND PROJECT] Pytorch를 활용한 3D Sementic Segmentation
 
 - 업무영억  
