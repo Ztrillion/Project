@@ -4,7 +4,7 @@
 
 ## [THIRD] 도로상황 자동갱신 AI개발
 
-### 231010 TTA V&V 시험 완료 
+### 231010 AI 성능인증 평가 - TTA V&V 평가완료
 
 
 | Class | Images      | Instances        |     mAP             |
